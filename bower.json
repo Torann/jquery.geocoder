@@ -1,0 +1,27 @@
+{
+  "name": "jquery.geocoder",
+  "description": "jQuery Geocoder",
+  "keywords": [
+    "jquery",
+    "geocoder",
+    "location"
+  ],
+  "homepage": "https://github.com/torann/jquery.geocoder",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "jquery.geocoder.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ]
+}
