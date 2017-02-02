@@ -2,6 +2,14 @@
 
 Easily get information about the browser.
 
+## Getting Started
+
+You can install the plugin using Bower:
+
+```bash
+bower install jquery.geocoder
+```
+
 ### Geocode
 
 ```js
